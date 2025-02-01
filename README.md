@@ -1,5 +1,6 @@
 # Object Detection Scripts 🚀
 
+## Description ℹ️
 This repository contains Python scripts for object detection using OpenCV and Haar Cascade classifiers. Three scripts are included:
 
 1. **Image Object Detection**: Detects objects in a static image.
@@ -34,5 +35,9 @@ This repository contains Python scripts for object detection using OpenCV and Ha
 ### 3. Webcam Object Detection
 - Run the script `webcam_detection.py`.
 - Detected objects will be highlighted with rectangles in real-time using your webcam.
-
 The pop-up screen will remain open until any key is pressed.
+
+## Contact 📧
+If you have any questions or comments, feel free to contact me:
+- **Email**: lautaroreche1@gmail.com
+- **LinkedIn**: [lautaroreche](https://www.linkedin.com/in/lautaroreche/)
