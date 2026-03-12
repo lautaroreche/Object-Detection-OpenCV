@@ -37,7 +37,6 @@ This repository contains Python scripts for object detection using OpenCV and Ha
 - Detected objects will be highlighted with rectangles in real-time using your webcam.
 The pop-up screen will remain open until any key is pressed.
 
-## Contact 📧
-If you have any questions or comments, feel free to contact me:
-- **Email**: lautaroreche1@gmail.com
+## Let's Connect! 📧
+If you have any questions or comments, feel free to contact me. I'm always open to discussing new projects and opportunities.
 - **LinkedIn**: [lautaroreche](https://www.linkedin.com/in/lautaroreche/)
